@@ -21,12 +21,4 @@ The Analog Computer allows users to input complex mathematical expressions, proc
 4. **Analog Circuitry**: Analog circuitry performs basic arithmetic operations.
 5. **Result Display**: The computed result is sent back to the personal computer screen for display.
 
-### Project Veterans:
-1) HARDIK JAIN
-2) HARI HRISHIKESH VARDHAN
-3) VASANTHAKUMAARAN K
 
-##### Lets connect and have a Chat!💬
-<a href="https://www.instagram.com/electronicsclubiitg/?hl=en" ><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45"></a>
-<a href="https://www.facebook.com/electronics.iitg/"><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" width="78" height="50"></a>
-<a href="https://www.reddit.com/r/ElectronicsClubIITG/"><img src="https://www.pngkit.com/png/full/0-7757_reddit-logo-reddit-icon-png.png" width="45" height="45"></a>
